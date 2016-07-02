@@ -10,6 +10,19 @@ version 0.0.0
 
 An general purpose question and answer system, which built and run on Perl and Mojolicious web framework.
 
+
+## FEATURES
+
+features blueprint
+
+## GET STARTED
+
+installation
+
+## DOCUMENTATION INDEX
+
+docs here
+
 # AUTHORS
 
 ## CORE DEVELOPERS
